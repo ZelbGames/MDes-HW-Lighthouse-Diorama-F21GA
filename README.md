@@ -1,5 +1,8 @@
 # ComputerGraphicsLighthouseProject2025!!
 
+# Trello Board for the Computer Graphics
+https://trello.com/b/fBGKrgMI/computer-graphics
+
 
 
 ## Getting started
