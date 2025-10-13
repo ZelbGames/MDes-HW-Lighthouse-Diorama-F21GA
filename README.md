@@ -4,6 +4,7 @@
 [Trello Link](https://trello.com/invite/b/68d282abd01c1191c4f89a8b/ATTI278f6fecf186a9c6ea45a3c4e5cd2ea74AB9506F/computer-graphics)
 
 # NOTE: Migrated over to github from gitlab student on the 13/10/2025
+# Using GITHUB H1
 
 
 ## Getting started
