@@ -12,15 +12,15 @@ I employed a material with a similar effect to my rocks, though this time with s
 
 ### Renders
 
-![clouds from the front](clouds_front_on_render.png])
+![clouds from the front](clouds_front_on_render.png)
 
   
 
-![clouds from the side](clouds_side_on_render.png])
+![clouds from the side](clouds_side_on_render.png)
 
   
 
-![clouds from the back](clouds_back_on_render.png])
+![clouds from the back](clouds_back_on_render.png)
 
 ### References
 
